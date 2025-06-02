@@ -23,8 +23,8 @@ function criaCartao(categoria, pergunta, resposta) {
         cartao.classList.toggle('active', respostaEstaVisivel)
         perguntaEstaVisivel = !perguntaEstaVisivel
         cartao.classList.toggle('active', perguntaEstaVisivel)
-        respostaEstaVisivel = !respostaEstaVisivel
-        cartao.classList.toggle('active', respostaEstaVisivel)
+        categoriaEstaVisivel = !categoriaEstaVisivel
+        cartao.classList.toggle('active', categoriaEstaVisivel)
 
     }
     cartao.addEventListener('click', viraCartao)
