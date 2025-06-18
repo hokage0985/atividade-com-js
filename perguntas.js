@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'luan gameplays'
+    'perspectiva',
+    'pra que serve o ponto de fuga?',
+    'criar profundidade'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'luz e sombra',
+    'pra que serve luz e sombra?',
+    'dar volume'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'anatomia',
+    'O que é anatomia?',
+    'estudo do corpo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'proporção',
+    'quantas cabeças tem o corpo?',
+    '7 ou 8 cabeças'
 )
