@@ -1,23 +1,23 @@
 criaCartao(
-    'perspectiva',
-    'pra que serve o ponto de fuga?',
-    'criar profundidade'
+    'Perspectiva',
+    'Pra que serve o ponto de fuga?',
+    'Criar profundidade'
 )
 
 criaCartao(
-    'luz e sombra',
-    'pra que serve luz e sombra?',
-    'dar volume'
+    'Luz e Sombra',
+    'Pra que serve luz e sombra?',
+    'Dar volume'
 )
 
 criaCartao(
-    'anatomia',
+    'Anatomia',
     'O que é anatomia?',
-    'estudo do corpo'
+    'Estudo do corpo'
 )
 
 criaCartao(
-    'proporção',
-    'quantas cabeças tem o corpo?',
+    'Proporção',
+    'Quantas cabeças tem o corpo?',
     '7 ou 8 cabeças'
 )
